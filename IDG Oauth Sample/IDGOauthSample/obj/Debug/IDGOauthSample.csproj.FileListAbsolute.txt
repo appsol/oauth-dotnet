@@ -1,0 +1,11 @@
+C:\work\.Net Oauth Sample\IDG Oauth Sample\IDGOauthSample\bin\IDGOauthSample.dll
+C:\work\.Net Oauth Sample\IDG Oauth Sample\IDGOauthSample\bin\IDGOauthSample.pdb
+C:\work\.Net Oauth Sample\IDG Oauth Sample\IDGOauthSample\bin\DevDefined.OAuth.dll
+C:\work\.Net Oauth Sample\IDG Oauth Sample\IDGOauthSample\bin\DevDefined.OAuth.pdb
+C:\work\.Net Oauth Sample\IDG Oauth Sample\IDGOauthSample\obj\Debug\IDGOauthSample.dll
+C:\work\.Net Oauth Sample\IDG Oauth Sample\IDGOauthSample\obj\Debug\IDGOauthSample.pdb
+C:\work\.Net Oauth Sample\IDG Oauth Sample\IDGOauthSample\obj\Debug\IDGOauthSample.csprojResolveAssemblyReference.cache
+C:\Users\nshrivastava\Desktop\IDG Oauth Sample\IDG Oauth Sample\IDGOauthSample\bin\IDGOauthSample.dll
+C:\Users\nshrivastava\Desktop\IDG Oauth Sample\IDG Oauth Sample\IDGOauthSample\bin\IDGOauthSample.pdb
+C:\Users\nshrivastava\Desktop\IDG Oauth Sample\IDG Oauth Sample\IDGOauthSample\obj\Debug\IDGOauthSample.dll
+C:\Users\nshrivastava\Desktop\IDG Oauth Sample\IDG Oauth Sample\IDGOauthSample\obj\Debug\IDGOauthSample.pdb

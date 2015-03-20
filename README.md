@@ -1,6 +1,4 @@
-# IDG-Dot-Net-Oauth-Only-Sample
-DotNet Oauth Sample
-Java Sample for OAuth
+#DotNet Sample for OAuth
 
 Welcome to the Intuit Developer's DotNet OAuth Sample App.
 
